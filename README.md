@@ -1,6 +1,6 @@
 
-##Сборка и Запуск
-    git clone
+## Сборка и Запуск
+    git clone https://github.com/stprost/SimpleService.git
     gradle startService
 
 ## Пример работы
